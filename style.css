@@ -1,0 +1,17 @@
+.questions{
+    display: flex;
+    
+
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0.5vh;
+}
+
+.buttonSubmit{
+    display: flex;
+    justify-content: center;
+}
